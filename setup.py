@@ -12,7 +12,7 @@ setup(
     description="アニメーション制作ツール用の共通コンポーネント",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/あなたのユーザー名/animation-tools-common",
+    url="https://github.com/animtools/animation-tools-common",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
